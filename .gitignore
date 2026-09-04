@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+.codex-tools/
+.gallery-dl-cache.sqlite3
+deviantart-cookies.txt
+.git.broken-backup-*/
